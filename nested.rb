@@ -1,10 +1,3 @@
-my_hash = {first: "i'm first!", second: "i'm second!"}
-my_hash[:third] = "i'm third!"
- 
-puts my_hash
-
-my_hash = {first: "i'm first!", second: "i'm second!"}
-my_hash = {first: "i'm first!", second: "i'm second!", third: "i'm third!"}
 def hopper
 	programmer_hash = 
  		{
